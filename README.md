@@ -40,7 +40,7 @@
 
 1. **克隆项目**
 
-   `git clone https://github.com/your-username/your-repo.git`
+   `git clone https://github.com/zhangqingxi/Laravel11Api.git`
    
 2. **安装依赖**
 
