@@ -1,0 +1,41 @@
+<?php
+
+return [
+    'general_error' => 'An error occurred on the server, please try again later.',
+    'validation_error' => 'Data validation error.',
+    'database_error' => 'Database error occurred.',
+    'not_found' => 'Resource not found.',
+    'authentication_error' => 'Authentication failed.',
+    'authorization_error' => 'Unauthorized access.',
+    'method_not_allowed' => 'Request method not allowed.',
+    'server_error' => 'Internal server error.',
+    'service_unavailable' => 'Service temporarily unavailable, please try again later.',
+    'throttle' => 'Too many requests, please try again later.',
+    'unprocessable_entity' => 'Unprocessable entity.',
+    'success' => 'Operation successful.',
+    'failed' => 'Operation failed.',
+    'decryption_failed' => 'Decryption data failed.',
+    'encryption_failed' => 'Encryption data failed.',
+    'token_not_provided' => 'Token not provided.',
+    'token_expired' => 'Token Expired.',
+    'token_invalid' => 'Token invalid.',
+    'token_blacklisted' => 'Token Blacklisted.',
+    'token_not_found' => 'Token not found.',
+    'token_required' => 'Token required.',
+    'token_expired_refresh' => 'Token expired, please refresh token.',
+    'too_many_requests' => 'Too many requests. Please try again later.',
+    'request_duplicate' => 'Duplicate request.',
+    'request_expired' => 'Request has expired.',
+    'route_not_found' => 'Route not found.',
+    'encryption_key_not_found' => 'encryption key not found。',
+
+
+    'admin' => [
+        'login_failed' => 'Login failed. Please check your account and password.',
+        'login_success' => 'Login successful.',
+        'logout_success' => 'Logout successful.',
+        'account_inactive' => 'Your account is inactive. Please contact support.',
+        'account_locked' => 'Account is locked, please try again later.',
+        'fetch_success' => ' Fetch success.',
+    ],
+];
